@@ -4,7 +4,7 @@ import './navbar.css';
 import logo from '../../assets/logo.svg';
 
 //BEM - Block Element Modifier
-//toggleMenu = variable that going to let us know if we're currently showing the menu, the mobile menu or not
+//toggleMenu = variable that's going to let us know if we're currently showing the menu, the mobile menu or not
 //setToggleMenu = function that allows us to change the variable
 // meaning at the start mobile menu is false
 
@@ -57,7 +57,7 @@ const Navbar = () => {
         }
      </div>
     </div>
-    )
+  )
 };
 
 export default Navbar;
