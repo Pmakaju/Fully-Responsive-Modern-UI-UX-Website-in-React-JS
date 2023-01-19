@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/Fully%20Responsive%20Modern%20UI%20UX%20Website%20in%20React%20JS/precache-manifest.7aa6efc24351f84c81ea8d2fb04439c0.js"
+  "/Fully-Responsive-Modern-UI-UX-Website-in-React-JS/precache-manifest.5b8a9e91dc7d1d1a5bd28f2d50b0fc84.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/Fully%20Responsive%20Modern%20UI%20UX%20Website%20in%20React%20JS/index.html", {
+workbox.routing.registerNavigationRoute("/Fully-Responsive-Modern-UI-UX-Website-in-React-JS/index.html", {
   
   blacklist: [/^\/_/,/\/[^/]+\.[^/]+$/],
 });
