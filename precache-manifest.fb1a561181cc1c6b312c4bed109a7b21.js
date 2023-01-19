@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "5c1ee4620c7e24dafc5e",
+    "revision": "57fe8d6862be470ac577",
     "url": "/Fully-Responsive-Modern-UI-UX-Website-in-React-JS/static/css/main.51070efc.chunk.css"
   },
   {
-    "revision": "5c1ee4620c7e24dafc5e",
-    "url": "/Fully-Responsive-Modern-UI-UX-Website-in-React-JS/static/js/main.5c1ee462.chunk.js"
+    "revision": "57fe8d6862be470ac577",
+    "url": "/Fully-Responsive-Modern-UI-UX-Website-in-React-JS/static/js/main.57fe8d68.chunk.js"
   },
   {
     "revision": "4824bc4903f26c2d73f7",
@@ -52,7 +52,7 @@ self.__precacheManifest = [
     "url": "/Fully-Responsive-Modern-UI-UX-Website-in-React-JS/static/media/possibility.3c84ae26.png"
   },
   {
-    "revision": "247ec4ce5245db70d741b35750d4ab6e",
+    "revision": "a722e4223a8c8e2cd992c7257d945164",
     "url": "/Fully-Responsive-Modern-UI-UX-Website-in-React-JS/index.html"
   }
 ];
