@@ -1,22 +1,22 @@
 {
-  "files": {
-    "main.css": "/Fully%20Responsive%20Modern%20UI%20UX%20Website%20in%20React%20JS/static/css/main.23846621.css",
-    "main.js": "/Fully%20Responsive%20Modern%20UI%20UX%20Website%20in%20React%20JS/static/js/main.415f5c9d.js",
-    "static/media/ai.png": "/Fully%20Responsive%20Modern%20UI%20UX%20Website%20in%20React%20JS/static/media/ai.aa60586ba1ba53762d94.png",
-    "static/media/possibility.png": "/Fully%20Responsive%20Modern%20UI%20UX%20Website%20in%20React%20JS/static/media/possibility.525f13b61a2157d44de0.png",
-    "static/media/blog01.png": "/Fully%20Responsive%20Modern%20UI%20UX%20Website%20in%20React%20JS/static/media/blog01.cefc0932eae0d33a0342.png",
-    "static/media/blog03.png": "/Fully%20Responsive%20Modern%20UI%20UX%20Website%20in%20React%20JS/static/media/blog03.d922323861096f25274f.png",
-    "static/media/blog04.png": "/Fully%20Responsive%20Modern%20UI%20UX%20Website%20in%20React%20JS/static/media/blog04.742c1357e7b6c11078e6.png",
-    "static/media/blog05.png": "/Fully%20Responsive%20Modern%20UI%20UX%20Website%20in%20React%20JS/static/media/blog05.bfaa1c1e3851158e0e1f.png",
-    "static/media/blog02.png": "/Fully%20Responsive%20Modern%20UI%20UX%20Website%20in%20React%20JS/static/media/blog02.ab0eb367561796e91532.png",
-    "static/media/people.png": "/Fully%20Responsive%20Modern%20UI%20UX%20Website%20in%20React%20JS/static/media/people.5cd2d6fbcd48bd63f106.png",
-    "static/media/logo.svg": "/Fully%20Responsive%20Modern%20UI%20UX%20Website%20in%20React%20JS/static/media/logo.5114679faa0cce74946769ded97f1c89.svg",
-    "index.html": "/Fully%20Responsive%20Modern%20UI%20UX%20Website%20in%20React%20JS/index.html",
-    "main.23846621.css.map": "/Fully%20Responsive%20Modern%20UI%20UX%20Website%20in%20React%20JS/static/css/main.23846621.css.map",
-    "main.415f5c9d.js.map": "/Fully%20Responsive%20Modern%20UI%20UX%20Website%20in%20React%20JS/static/js/main.415f5c9d.js.map"
-  },
-  "entrypoints": [
-    "static/css/main.23846621.css",
-    "static/js/main.415f5c9d.js"
-  ]
+  "main.css": "/Fully%20Responsive%20Modern%20UI%20UX%20Website%20in%20React%20JS/static/css/main.51070efc.chunk.css",
+  "main.js": "/Fully%20Responsive%20Modern%20UI%20UX%20Website%20in%20React%20JS/static/js/main.5c1ee462.chunk.js",
+  "main.js.map": "/Fully%20Responsive%20Modern%20UI%20UX%20Website%20in%20React%20JS/static/js/main.5c1ee462.chunk.js.map",
+  "static/js/1.4824bc49.chunk.js": "/Fully%20Responsive%20Modern%20UI%20UX%20Website%20in%20React%20JS/static/js/1.4824bc49.chunk.js",
+  "static/js/1.4824bc49.chunk.js.map": "/Fully%20Responsive%20Modern%20UI%20UX%20Website%20in%20React%20JS/static/js/1.4824bc49.chunk.js.map",
+  "runtime~main.js": "/Fully%20Responsive%20Modern%20UI%20UX%20Website%20in%20React%20JS/static/js/runtime~main.1ba8d69d.js",
+  "runtime~main.js.map": "/Fully%20Responsive%20Modern%20UI%20UX%20Website%20in%20React%20JS/static/js/runtime~main.1ba8d69d.js.map",
+  "static/media/logo.svg": "/Fully%20Responsive%20Modern%20UI%20UX%20Website%20in%20React%20JS/static/media/logo.a95f42a4.svg",
+  "static/media/blog01.png": "/Fully%20Responsive%20Modern%20UI%20UX%20Website%20in%20React%20JS/static/media/blog01.fea810ed.png",
+  "static/media/blog02.png": "/Fully%20Responsive%20Modern%20UI%20UX%20Website%20in%20React%20JS/static/media/blog02.e76b2c16.png",
+  "static/media/blog03.png": "/Fully%20Responsive%20Modern%20UI%20UX%20Website%20in%20React%20JS/static/media/blog03.404d1a40.png",
+  "static/media/blog04.png": "/Fully%20Responsive%20Modern%20UI%20UX%20Website%20in%20React%20JS/static/media/blog04.d682b195.png",
+  "static/media/blog05.png": "/Fully%20Responsive%20Modern%20UI%20UX%20Website%20in%20React%20JS/static/media/blog05.576efe18.png",
+  "static/media/people.png": "/Fully%20Responsive%20Modern%20UI%20UX%20Website%20in%20React%20JS/static/media/people.3d848993.png",
+  "static/media/ai.png": "/Fully%20Responsive%20Modern%20UI%20UX%20Website%20in%20React%20JS/static/media/ai.17ade557.png",
+  "static/media/possibility.png": "/Fully%20Responsive%20Modern%20UI%20UX%20Website%20in%20React%20JS/static/media/possibility.3c84ae26.png",
+  "static/css/main.51070efc.chunk.css.map": "/Fully%20Responsive%20Modern%20UI%20UX%20Website%20in%20React%20JS/static/css/main.51070efc.chunk.css.map",
+  "index.html": "/Fully%20Responsive%20Modern%20UI%20UX%20Website%20in%20React%20JS/index.html",
+  "precache-manifest.7aa6efc24351f84c81ea8d2fb04439c0.js": "/Fully%20Responsive%20Modern%20UI%20UX%20Website%20in%20React%20JS/precache-manifest.7aa6efc24351f84c81ea8d2fb04439c0.js",
+  "service-worker.js": "/Fully%20Responsive%20Modern%20UI%20UX%20Website%20in%20React%20JS/service-worker.js"
 }
